@@ -13,4 +13,4 @@ This repository contains my solutions to the assignments of the Coursera course
 * [Solution](https://arshitsinghal.github.io/HTML-CSS-and-javascript-for-web-Development/module3/)
 
 ### Module 4
-* [Solution](https://arshitsinghal.github.io/HTML-CSS-and-javascript-for-web-Development/module 4/)
+* [Solution](https://arshitsinghal.github.io/HTML-CSS-and-javascript-for-web-Development/module4/)
